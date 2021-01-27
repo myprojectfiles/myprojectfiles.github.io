@@ -1,0 +1,83 @@
+*{ 
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+  a {
+    display: inline-block;
+    padding: 20px; padding-left: 50px;
+  }
+
+  
+  a:visited {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+  
+h3 {padding: 20px;}
+.hline { width:100%; height:2px; background:black;}
+img {
+    border-radius: 100%; position: absolute;
+    right: 45%; bottom: 55%;
+  }
+  h1 {
+    position: absolute;
+    left: 41%;
+    top: 350px;
+  }
+  p { position: absolute; top: 400px;
+    text-align: center; left: 33%;
+  }
+  .hobby{position: absolute;
+    left: 41%;
+    top: 100px; text-decoration: underline; }
+    h2{ position: absolute;
+      left: 44%;
+      top: 150px;}
+ .skill{position: absolute;
+        left: 43%;
+        top: 100px; text-decoration: underline; }
+ .checked1 {
+          color:yellow; position: absolute;
+            left: 53%;
+            top: 157px;}
+            .checked2 {
+              color: yellow; position: absolute;
+                left: 55%;
+                top: 157px;}
+    .checked3 {
+      color:yellow; position: absolute; left: 53%; top: 185px;}
+    .checked4 { color: yellow; position: absolute; left: 55%; top: 185px;}
+
+    .checked5 {
+      color: yellow; position: absolute; left: 53%; top: 213px;}
+    .checked6 { color:yellow; position: absolute; left: 55%; top: 213px;}
+    .checked7 {
+      color: yellow; position: absolute; left: 57%; top: 213px;}
+
+      .checked8 {
+        color:yellow; position: absolute; left: 53%; top: 241px;}
+      .checked9 { color:yellow; position: absolute; left: 55%; top: 241px;}
+      .checked10 {
+        color: yellow; position: absolute; left: 57%; top: 241px;}
+  
+
+
+          
+  
+  
+  
+  
